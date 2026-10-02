@@ -1,0 +1,2 @@
+# Only required for the Pygame edition of the Space Shooter.
+pygame>=2.5.0

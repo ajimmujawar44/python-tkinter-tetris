@@ -1,0 +1,8 @@
+# Puzzle Block Game Requirements
+# No external dependencies required - uses only Python standard library
+
+# Python version requirement
+python>=3.6
+
+# Tkinter is included with Python standard library
+# No additional packages needed
